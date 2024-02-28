@@ -1,0 +1,4 @@
+from StandardHelperApp import StandardHelperApp
+
+app = StandardHelperApp()
+app.run()
